@@ -7,5 +7,6 @@ public class Test {
         System.out.println("Hi, Salbila udah join di kolaborasi ini");
 
         System.out.println("Hallo teman teman");
+        System.out.println("Haii kawan-kawan");
     }
 }
